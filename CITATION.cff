@@ -11,7 +11,7 @@ authors:
   - family-names: Ekbal
     given-names: Asif
 version: "0.1.0"
-license: "NOASSERTION"
+license: "AGPL-3.0-only"
 preferred-citation:
   type: article
   title: "Geometry of Expert Choice in Neural Machine Translation"

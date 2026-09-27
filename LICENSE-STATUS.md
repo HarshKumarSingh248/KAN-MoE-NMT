@@ -1,7 +1,6 @@
 # License status
 
-The source project does not contain a confirmed software license. Do not
-assume that third-party dataset, backbone, or metric licenses are covered by a
-license for this code. The repository owner must choose and add a software
-license before public release. Dataset and pretrained-model terms must also be
-reviewed separately.
+The source code in this repository is released under the GNU Affero General
+Public License, version 3 (AGPL-3.0). This license applies to the repository's
+own code only. Dataset, pretrained-model, and metric-tool terms are separate
+and must be reviewed before use.
