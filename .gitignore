@@ -1,0 +1,46 @@
+# Data, downloaded models and trained checkpoints
+data/*
+!data/README.md
+models/
+third_party/indic_nlp_library/
+third_party/RIBES-1.02.4/
+checkpoints/*
+!checkpoints/README.md
+runs/
+*.pt
+*.pth
+*.safetensors
+*.bin
+
+# Generated evaluations and predictions
+eval_results.json
+predictions*.txt
+hyp*.txt
+ref*.txt
+
+# Local environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Experiment tracking and logs
+*.log
+*.out
+*.err
+slurm-*
+wandb/
+tensorboard/
+events.out.tfevents.*
+
+# Local/editor/OS state
+.DS_Store
+.idea/
+.vscode/
+.env
+*.swp

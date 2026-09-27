@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you find this work or code useful in your research, please cite the associated paper."
+title: "Geometry of Expert Choice in Neural Machine Translation"
+authors:
+  - family-names: Singh
+    given-names: Harsh Kumar
+  - family-names: Gain
+    given-names: Baban
+  - family-names: Kumar
+    given-names: Deepak
+  - family-names: Ekbal
+    given-names: Asif
+version: "0.1.0"
+license: "NOASSERTION"
+preferred-citation:
+  type: article
+  title: "Geometry of Expert Choice in Neural Machine Translation"
+  authors:
+    - family-names: Singh
+      given-names: Harsh Kumar
+    - family-names: Gain
+      given-names: Baban
+    - family-names: Kumar
+      given-names: Deepak
+    - family-names: Ekbal
+      given-names: Asif
+  journal: "Expert Systems with Applications"
+  year: 2026
+  notes: "Manuscript; update publication status and final metadata when available"
